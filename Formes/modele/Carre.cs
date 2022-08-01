@@ -8,7 +8,7 @@
         /// <summary>
         /// côté du carré
         /// </summary>
-        private double cote;
+        private readonly double cote;
 
         /// <summary>
         /// Constructeur : valorise cote

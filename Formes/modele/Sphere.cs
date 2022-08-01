@@ -10,7 +10,7 @@ namespace Formes.modele
         /// <summary>
         /// rayon de la sphère
         /// </summary>
-        private double rayon;
+        private readonly double rayon;
 
         /// <summary>
         /// Constructeur : valorise rayon

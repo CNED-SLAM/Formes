@@ -10,7 +10,7 @@ namespace Formes.modele
         /// <summary>
         /// côté du cube
         /// </summary>
-        private double cote;
+        private readonly double cote;
 
         /// <summary>
         /// Constructeur : valorise cote
