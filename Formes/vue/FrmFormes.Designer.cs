@@ -1,5 +1,5 @@
 ﻿
-namespace Formes
+namespace Formes.vue
 {
     partial class FrmFormes
     {
