@@ -5,7 +5,7 @@
     /// force la redéfinition de Perimetre pour les formes 2D
     /// et la redéfinition de Aire
     /// </summary>
-    interface IForme2D : IForme
+    public interface IForme2D : IForme
     {
         /// <summary>
         /// Calcul du périmètre

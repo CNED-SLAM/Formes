@@ -2,34 +2,32 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// Les informations générales relatives à un assembly dépendent de
+// Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("Formes")]
+[assembly: AssemblyTitle("FormesTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Formes")]
+[assembly: AssemblyProduct("FormesTests")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
-// L'affectation de la valeur false à ComVisible rend les types invisibles dans cet assembly
-// aux composants COM. Si vous devez accéder à un type dans cet assembly à partir de
+// L'affectation de la valeur False à ComVisible rend les types invisibles dans cet assembly 
+// aux composants COM.  Si vous devez accéder à un type dans cet assembly à partir de 
 // COM, affectez la valeur true à l'attribut ComVisible sur ce type.
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("f8cbf56d-2587-4cc0-9dc2-40bfe562919f")]
+[assembly: Guid("2870dfc1-3cc4-443a-a6f4-598aa6e025d8")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //
 //      Version principale
-//      Version secondaire
+//      Version secondaire 
 //      Numéro de build
 //      Révision
 //
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: InternalsVisibleTo("Formes.Tests")]
-[assembly: InternalsVisibleTo("Formes.Explorables")]

@@ -5,7 +5,7 @@
     /// force la redéfinition de Volume pour les formes 3D
     /// et la redéfinition de Aire
     /// </summary>
-    interface IForme3D : IForme
+    public interface IForme3D : IForme
     {
         /// <summary>
         /// Calcul du volume
